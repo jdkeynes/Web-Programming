@@ -1,4 +1,4 @@
-# Web-Programming - Exercise 1: Getting Started with PHP
+Web-Programming - Exercise 1: Getting Started with PHP
 
 ## Task 1: Setting up web Development Environment and creating exercise folders.
 1. Set up the web development local environment using the docker compose file. 
