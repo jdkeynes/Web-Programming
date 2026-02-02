@@ -1,8 +1,8 @@
 # Exercise 3: Variable, Strings & Operators
 
 1. **Create a file (ex3.php)**: Create a file named ex3.php in your exercise folder. Ensure that it uses the same layout as your other pages and that your navigation bar includes a link to this exercise.
-2. **Form Creation**: Create a simple HTML form to collect the user’s `Firstname` and `Lastname`. Use the `echo` statement to print “Hello [Firstname] [Lastname], You are welcome to my site.” inside an `<h3>` tag. [Table & Form Guide](https://drive.google.com/file/d/1Ze75hUR8GxSPmoxnSp9OZpJKSKFZHAo4/view)
-3. **Bootstrap Styling**: Apply Bootstrap styles to the form. Make sure to include the Bootstrap CSS link in your `<head>` tag. [BootStrap Guide](https://dipaish.github.io/www23/bootstrap)
+2. **Form Creation**: Create a simple HTML form to collect the user’s `Firstname` and `Lastname`. Use the `echo` statement to print “Hello [Firstname] [Lastname], You are welcome to my site.” inside an `<h3>` tag.
+3. **Bootstrap Styling**: Apply Bootstrap styles to the form. Make sure to include the Bootstrap CSS link in your `<head>` tag. [BootStrap Guide](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
 4. **HTML Table**: Prepare a simple HTML table and apply Bootstrap styles to it. Note, you have already done a table in Exercise 1. If you wish, you can use the same table. [BootStrap Cheatsheet](https://bootstrap-cheatsheet.themeselection.com/)
 5. **String Variables**: Write a PHP script with two string variables `($str1 = "Hello";
 $str2 = "World";)`.  Join them together and print the length of the string.
